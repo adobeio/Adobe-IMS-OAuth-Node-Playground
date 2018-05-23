@@ -1,0 +1,25 @@
+{
+  "name": "adobe-ims-oauth-playground",
+  "version": "1.0.0",
+  "description": "test",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hirenshah111/Adobe-IMS-OAuth-Playground.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hirenshah111/Adobe-IMS-OAuth-Playground/issues"
+  },
+  "homepage": "https://github.com/hirenshah111/Adobe-IMS-OAuth-Playground#readme",
+  "dependencies": {
+    "express": "^4.16.2",
+    "http": "0.0.0",
+    "request": "^2.83.0",
+    "socket.io": "^2.0.4"
+  }
+}
