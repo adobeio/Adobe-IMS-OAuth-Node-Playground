@@ -8,14 +8,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/hirenshah111/Adobe-IMS-OAuth-Playground.git"
+    "url": "git+https://github.com/adobeio/Adobe-IMS-OAuth-Node-Playground.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/hirenshah111/Adobe-IMS-OAuth-Playground/issues"
+    "url": "https://github.com/adobeio/Adobe-IMS-OAuth-Node-Playground/issues"
   },
-  "homepage": "https://github.com/hirenshah111/Adobe-IMS-OAuth-Playground#readme",
+  "homepage": "https://github.com/adobeio/Adobe-IMS-OAuth-Node-Playground#readme",
   "dependencies": {
     "express": "^4.16.2",
     "http": "0.0.0",
