@@ -51,7 +51,7 @@ In the project directory, generate your cert and private key files: `server.key`
 Browse to https://localhost:3000 and follow the shown instruction. Paste your credentials (which can be found in your I/O integration), and you are ready to start!
 
 # Credits
-- Hiren Shah [@hirenshah111](https://github.com/hirenshah111)
+- Hiren Shah [@hirenoble](https://github.com/hirenoble)
 
 # License
 [MIT](LICENSE)
